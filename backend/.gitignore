@@ -1,0 +1,4 @@
+node_modules/
+flowforge.sqlite
+.env
+*.log
